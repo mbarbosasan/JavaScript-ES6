@@ -12,7 +12,8 @@
 <body>
   <div class="grid-container">
     <nav class="menu" data-menu="suave">
-      <ul>
+      <button data-menu="button" aria-expanded="false" aria-controls="menu">Menu</button>
+      <ul data-menu="list" id="menu">
         <li><a href="#animais">Animais</a></li>
         <li data-dropdown>
           <a href="sobre.html">Sobre</a>
@@ -121,6 +122,28 @@
         <dt>Como proteger?</dt>
         <dd>Também apresentam como particularidade suas pupilas ovais, semelhantes às pupilas verticais dos felídeos.</dd>
       </dl>
+    </section>
+
+    <section class="grid-section numeros" data-anime="scroll">
+      <h1 class="titulo">Números</h1>
+      <div class="numeros-grid">
+        <div class="numero-animal">
+          <h3>Lobos</h3>
+          <span data-numero>4800</span>
+        </div>
+        <div class="numero-animal">
+          <h3>Raposa</h3>
+          <span data-numero>2323</span>
+        </div>
+        <div class="numero-animal">
+          <h3>Esquilos</h3>
+          <span data-numero>1232</span>
+        </div>
+        <div class="numero-animal">
+          <h3>Ursos</h3>
+          <span data-numero>430</span>
+        </div>
+      </div>
     </section>
 
     <section class="grid-section contato" data-anime="scroll" id="contato">
