@@ -79,8 +79,8 @@ Já no início do curso o André nos entrega o projeto apenas com o HTML e CSS f
   * **Mais JavaScript:**
     * Function Expression :white_check_mark:
     * Factory Functions :white_check_mark:
-    * Closures e Debugging
-    * Destructuring
+    * Closures e Debugging :white_check_mark:
+    * Destructuring :white_check_mark:
     * REST e Spread
     * Loops e Iterações
   * **REGEX:**
@@ -119,4 +119,3 @@ Já no início do curso o André nos entrega o projeto apenas com o HTML e CSS f
     * Slide Animais Fantásticos
     * Melhorias no Projeto Final
     * Conclusões finais.
-
