@@ -76,13 +76,13 @@ Já no início do curso o André nos entrega o projeto apenas com o HTML e CSS f
     * Getters e Setters :white_check_mark:
     * Extends :white_check_mark:
     * Countdown :white_check_mark:
-  * **Mais JavaScript:**
+  * **Mais JavaScript:** :white_check_mark:
     * Function Expression :white_check_mark:
     * Factory Functions :white_check_mark:
     * Closures e Debugging :white_check_mark:
     * Destructuring :white_check_mark:
-    * REST e Spread
-    * Loops e Iterações
+    * REST e Spread :white_check_mark:
+    * Loops e Iterações :white_check_mark:
   * **REGEX:**
     * Regexp seleção
     * Regexp substituções
