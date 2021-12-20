@@ -84,9 +84,9 @@ Já no início do curso o André nos entrega o projeto apenas com o HTML e CSS f
     * REST e Spread :white_check_mark:
     * Loops e Iterações :white_check_mark:
   * **REGEX:**
-    * Regexp seleção
-    * Regexp substituções
-    * Regexp padrões
+    * Regexp seleção :white_check_mark: 
+    * Regexp substituções :white_check_mark: 
+    * Regexp padrões :white_check_mark:
     * Regexp métodos
     * Limpar CPF
     * Validar CPF
