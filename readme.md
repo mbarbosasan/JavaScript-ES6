@@ -87,8 +87,8 @@ Já no início do curso o André nos entrega o projeto apenas com o HTML e CSS f
     * Regexp seleção :white_check_mark: 
     * Regexp substituções :white_check_mark: 
     * Regexp padrões :white_check_mark:
-    * Regexp métodos
-    * Limpar CPF
+    * Regexp métodos :white_check_mark:
+    * Limpar CPF :white_check_mark:
     * Validar CPF
   * **Automação Front-End:**
     * Repositório GIT
