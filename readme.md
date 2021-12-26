@@ -83,13 +83,13 @@ Já no início do curso o André nos entrega o projeto apenas com o HTML e CSS f
     * Destructuring :white_check_mark:
     * REST e Spread :white_check_mark:
     * Loops e Iterações :white_check_mark:
-  * **REGEX:**
+  * **REGEX:** :white_check_mark:
     * Regexp seleção :white_check_mark: 
     * Regexp substituções :white_check_mark: 
     * Regexp padrões :white_check_mark:
     * Regexp métodos :white_check_mark:
     * Limpar CPF :white_check_mark:
-    * Validar CPF
+    * Validar CPF :white_check_mark:
   * **Automação Front-End:**
     * Repositório GIT
     * Refatorando Scroll Suave
