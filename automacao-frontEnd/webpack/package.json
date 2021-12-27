@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production ./js/script.js -o ./",
-    "dev": "webpack --mode development --watch ./js/script.js -o ./"
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
   },
   "author": "",
   "license": "ISC",
@@ -15,9 +15,5 @@
     "eslint-plugin-import": "^2.25.3",
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1"
-  },
-  "dependencies": {
-    "jquery": "^3.6.0",
-    "lodash": "^4.17.21"
   }
 }
