@@ -90,21 +90,21 @@ Já no início do curso o André nos entrega o projeto apenas com o HTML e CSS f
     * Regexp métodos :white_check_mark:
     * Limpar CPF :white_check_mark:
     * Validar CPF :white_check_mark:
-  * **Automação Front-End:**
-    * Repositório GIT
-    * Refatorando Scroll Suave
-    * Refatorando Accordion
-    * Refatorando Tabnav
-    * Refatorando Modal
-    * Refatorando Tooltip
-    * Refatorando Anima Números
-    * Refatorando Fetch Animais
-    * Refatorando Fetch Bitcoin
-    * Refatorando Animação ao Scroll
-    * Debounce
-    * Refatorando Dropdown Menu
-    * Refatorando Menu Mobile
-    * Refatorando funcionamento
+  * **Automação Front-End:** :white_check_mark:
+    * Repositório GIT :white_check_mark:
+    * Refatorando Scroll Suave :white_check_mark:
+    * Refatorando Accordion :white_check_mark:
+    * Refatorando Tabnav :white_check_mark:
+    * Refatorando Modal :white_check_mark:
+    * Refatorando Tooltip :white_check_mark:
+    * Refatorando Anima Números :white_check_mark:
+    * Refatorando Fetch Animais :white_check_mark:
+    * Refatorando Fetch Bitcoin :white_check_mark:
+    * Refatorando Animação ao Scroll :white_check_mark:
+    * Debounce :white_check_mark:
+    * Refatorando Dropdown Menu :white_check_mark:
+    * Refatorando Menu Mobile :white_check_mark:
+    * Refatorando funcionamento :white_check_mark:
   * **Slides:**
     * Slide início
     * Slide Eventos
